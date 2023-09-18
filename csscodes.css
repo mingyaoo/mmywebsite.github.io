@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(238, 238, 186);
+}
+.bg-1 {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+.bg-2 {
+      background-color: #2a3c63; /* Dark Blue */
+      color: #ffffff;
+    }
+.title {
+    color:#474e5d;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+  }
+.bg-3{
+  color:aliceblue;
+  background-color: rgb(76, 76, 168);
+}
+.subtitle{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:#fffdfd;
+}
+.normaltext{
+  color:#fbdfdf;
+  font-family:'Courier New', Courier, monospace;
+}
+.fontstyle1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+  background-color: #2d2d30;
+  color: #f5f5f5;
+  padding: 32px;
+}
+
+footer a {
+  color: #f5f5f5;
+}
+
+footer a:hover {
+  color: #777;
+  text-decoration: none;
+} 
